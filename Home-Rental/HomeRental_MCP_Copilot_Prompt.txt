@@ -1,0 +1,6 @@
+Using the home-rental.csv create a machine learning model.
+Apply linear regression model for training and validation purpose.
+create a python flask server app.py to render the user interface for client.
+Also create a web user interface for input value and the output values.
+Also take the clone inspiration from - https://microsoftlearning.github.io/mslearn-ai-sims/sims/home_rental/
+Also create a read me file to use the application.
